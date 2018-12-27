@@ -1,0 +1,6 @@
+I have used 5 global string variables to be accessed throughout the program. If you want to change the appearance of the dice in future, you can edit this strings
+side_1() to side_6() are the functions depicting the different sides of the dice
+The function Choice allows you to print the different sides of the dice as and when required
+The funtion Into() depicts the screen of options that would appear before the start of the program
+dikha_jalwa() is just to make the program look better
+decide() is to decide the score of the game
